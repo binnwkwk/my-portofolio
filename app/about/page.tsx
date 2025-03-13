@@ -180,19 +180,19 @@ export default function AboutPage() {
               >
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Email</h3>
-                  <a href="mailto:your.email@example.com" className="text-yellow-400 hover:underline">
-                    your.email@example.com
+                  <a href="mailto:binntzy380@gmail.com" className="text-yellow-400 hover:underline">
+                    binntzyy380@gmail.com
                   </a>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold mb-2">LinkedIn</h3>
+                  <h3 className="text-lg font-semibold mb-2">TikTok</h3>
                   <a 
-                    href="https://linkedin.com/in/your-profile" 
+                    href="https://tiktok.com/@binnwkwk" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="text-yellow-400 hover:underline"
                   >
-                    linkedin.com/in/your-profile
+                    https://tiktok.com/@binnwkwk
                   </a>
                 </div>
               </motion.div>
@@ -205,7 +205,7 @@ export default function AboutPage() {
               >
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Location</h3>
-                  <p className="text-gray-300">Your City, Country</p>
+                  <p className="text-gray-300">Jawa Barat, Indonesia</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Available for</h3>
